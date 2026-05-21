@@ -2,7 +2,7 @@
 
 ### 🔗 Live Website
 
-[Rental-Hub Live Demo](https://rashelmahmudrabbi.github.io/rental-hub/?utm_source=chatgpt.com)
+[Rental-Hub Live Demo](https://rashelmahmudrabbi.github.io/rental-hub)
 
 ---
 
